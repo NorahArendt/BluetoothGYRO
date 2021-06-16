@@ -5,5 +5,6 @@
 
 點擊後就會自動連線並傳送三軸加速度資料回來。
 
+UI:
 
-
+![Screenshot_20210303-101256](https://user-images.githubusercontent.com/45557039/122154188-fbcf1180-ce96-11eb-934f-4548327eea8a.png)
